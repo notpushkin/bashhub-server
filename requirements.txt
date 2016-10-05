@@ -1,0 +1,5 @@
+asphalt==2.1.0
+asphalt-sqlalchemy==2.0.0
+Kyoukai==1.9.2.1
+passlib==1.6.5
+SQLAlchemy-Utils==0.32.9
