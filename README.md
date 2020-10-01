@@ -1,3 +1,6 @@
+If you're looking for an implementation that actually works, go give [nicksherron/bashhub-server](https://github.com/nicksherron/bashhub-server) a try!
+
+
 # bashhub-server
 
 Unofficial bashhub server. Nothing works yet.
